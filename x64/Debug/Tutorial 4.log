@@ -1,0 +1,17 @@
+﻿  Tutorial 4.cpp
+e:\yr3\physx\physx-master\tutorial 4\basicactors.h(263): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+e:\yr3\physx\physx-master\tutorial 4\basicactors.h(264): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+e:\yr3\physx\physx-master\tutorial 4\basicactors.h(279): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+e:\yr3\physx\physx-master\tutorial 4\basicactors.h(280): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  VisualDebugger.cpp
+e:\yr3\physx\physx-master\tutorial 4\basicactors.h(263): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+e:\yr3\physx\physx-master\tutorial 4\basicactors.h(264): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+e:\yr3\physx\physx-master\tutorial 4\basicactors.h(279): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+e:\yr3\physx\physx-master\tutorial 4\basicactors.h(280): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  PhysicsEngine.cpp
+  Renderer.cpp
+  GLFontRenderer.cpp
+  Camera.cpp
+  Generating Code...
+  Tutorial 4.vcxproj -> E:\Yr3\PhysX\PhysX-Master\x64\Debug\Tutorial 4.exe
+  Tutorial 4.vcxproj -> E:\Yr3\PhysX\PhysX-Master\x64\Debug\Tutorial 4.pdb (Partial PDB)
